@@ -20,10 +20,10 @@
 
  pip install bs4
 
-rm -rf PRO_CRACK
+rm -rf CRACK_PRO
 
-git clone https://github.com/MrK4US4R/PRO_CRACK
+git clone https://github.com/MrK4US4R/CRACK_PRO
 
-cd PRO_CRACK
+cd CRACK_PRO
 
-python KAUSAR_PRO_FILE.py
+python KAUSAR_CRACK_PRO.py
